@@ -17,3 +17,6 @@ This Folder Contains
 2- FuzzyLogicUI produces the GUI that uses the Fuzzy Logic Engine.
 
 3- FuzzyTest is a console bases test engine, to test the Fuzzy logic controller with a pre defined configurations.
+
+
+Original Article I wrote in Code Project can be found here : https://www.codeproject.com/Articles/33214/Fuzzinator-A-Fuzzy-Logic-Controller
