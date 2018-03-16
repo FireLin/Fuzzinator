@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="FuzzyLogicController.FLC.FLC">
+    <Position X="7" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <FileName>FLC\FLC.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAIAAAAACIAAAAAAAAAAAAAEAgAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyLogicController.FuzzyNumber">
+    <Position X="10" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>FuzzyNumber.cs</FileName>
+      <HashCode>AAAgAAAAAAAAAAAEBABAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyLogicController.FuzzySet">
+    <Position X="4.25" Y="3" Width="2.75" />
+    <TypeIdentifier>
+      <FileName>FuzzySet.cs</FileName>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAEAIAAAAAAAAQAAAAAAgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyLogicController.LingVariable">
+    <Position X="10" Y="3" Width="2.75" />
+    <TypeIdentifier>
+      <FileName>LingVariable.cs</FileName>
+      <HashCode>AAAAAAAAAAAACAQAEBCAGAQAAAAAAAAAAQCAAAAQAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyLogicController.MFs.MemberShipFunction">
+    <Position X="1.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>MFs\MemberShipFunction.cs</FileName>
+      <HashCode>IAAAAAIIACAAGAAQgBCAAAQAAAAAAIAAAAAAAAAgYAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyLogicController.MFs.Trapmf">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MFs\Trapmf.cs</FileName>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyLogicController.MFs.Trimf">
+    <Position X="2.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MFs\Trimf.cs</FileName>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyLogicController.RuleEngine.InferEngine">
+    <Position X="7.25" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>RuleEngine\InferEngine.cs</FileName>
+      <HashCode>EAAAAAAAIQAAABACgAAQAAAAAAAAgAAAACMBAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyLogicController.RuleEngine.Rule">
+    <Position X="4.25" Y="5.5" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>RuleEngine\Rule.cs</FileName>
+      <HashCode>AAAAEAAgAAACAAEEAAAAQAAAAAAAAAAAAAAAEACABAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyLogicController.RuleEngine.RuleItem">
+    <Position X="7.5" Y="6.75" Width="2" />
+    <TypeIdentifier>
+      <FileName>RuleEngine\RuleItem.cs</FileName>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAIAAAAAAAAAAQAAgAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyLogicController.RuleEngine.Config">
+    <Position X="4.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>RuleEngine\Config.cs</FileName>
+      <HashCode>AAAARAAAIAAAAAAAAAAAAAAAAAAAAAAAACAAAAhAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="FuzzyLogicController.VarType">
+    <Position X="2.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>LingVariable.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FuzzyLogicController.RuleEngine.Connector">
+    <Position X="0.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>RuleEngine\Rule.cs</FileName>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FuzzyLogicController.RuleEngine.DefuzzifcationType">
+    <Position X="1.5" Y="8.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>RuleEngine\Config.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FuzzyLogicController.RuleEngine.ImpMethod">
+    <Position X="0.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>RuleEngine\Config.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FuzzyLogicController.RuleEngine.ConnMethod">
+    <Position X="2.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>RuleEngine\Config.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+</ClassDiagram>
