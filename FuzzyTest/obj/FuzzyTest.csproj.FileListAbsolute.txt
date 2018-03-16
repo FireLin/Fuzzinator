@@ -1,0 +1,7 @@
+C:\Documents and Settings\Hesham Omran\My Documents\Visual Studio 2005\Projects\FuzzyLogicController\FuzzyTest\bin\Debug\FuzzyTest.exe
+C:\Documents and Settings\Hesham Omran\My Documents\Visual Studio 2005\Projects\FuzzyLogicController\FuzzyTest\bin\Debug\FuzzyTest.pdb
+C:\Documents and Settings\Hesham Omran\My Documents\Visual Studio 2005\Projects\FuzzyLogicController\FuzzyTest\bin\Debug\FuzzyLogicController.dll
+C:\Documents and Settings\Hesham Omran\My Documents\Visual Studio 2005\Projects\FuzzyLogicController\FuzzyTest\bin\Debug\FuzzyLogicController.pdb
+C:\Documents and Settings\Hesham Omran\My Documents\Visual Studio 2005\Projects\FuzzyLogicController\FuzzyTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Hesham Omran\My Documents\Visual Studio 2005\Projects\FuzzyLogicController\FuzzyTest\obj\Debug\FuzzyTest.exe
+C:\Documents and Settings\Hesham Omran\My Documents\Visual Studio 2005\Projects\FuzzyLogicController\FuzzyTest\obj\Debug\FuzzyTest.pdb
